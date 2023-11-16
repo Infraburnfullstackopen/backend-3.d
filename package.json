@@ -16,7 +16,7 @@
   "dependencies": {
     "cors": "2.8.5",
     "dotenv": "8.2.0",
-    "express": "4.17.21",
+    "express": "4.17",
     "bson": "6.1.16",
     "mongoose": "5.13.18"
     
